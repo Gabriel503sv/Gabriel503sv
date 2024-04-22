@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Gabriel503sv/Gabriel503sv/blob/main/IMG/Sin%20t%C3%ADtulo%20(6).png)
+![Banner Image](https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif)
 # Hello, I'm Gabriel Alegria
 I am a technology enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
